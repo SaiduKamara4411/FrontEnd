@@ -1,0 +1,94 @@
+*{
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #AEDBCE;
+  text-align: center;
+}
+.img-top{
+  background-color: blue;
+  background-size: 200px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+img{
+  width: 200px;
+    background-color: blue;
+
+}
+img mus-icon{
+  width: 20px;
+    background-color: blue;
+
+}
+
+.big-wrpper{
+  margin: 400px ;
+
+  border: solid none;
+  border-width: 100px;
+  border-radius: 30px;
+  background-color: #FCF8E8;
+
+
+}
+
+.plan{
+  background-color: #D3EBCD;
+  display: inline-block;
+  background-size: 100px;
+}
+p {
+      text-align: justify;
+      font-size: 10px;
+    }
+
+.but {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px ;
+    margin-bottom: auto;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: blue;
+
+}
+
+.but:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.but:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.butt {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px ;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: blue;
+
+}
+
+.butt:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.but:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
